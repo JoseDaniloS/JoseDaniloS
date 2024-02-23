@@ -5,9 +5,9 @@ Future Back-End Devloper.<br>
 Basic English.
 
 
-![JDksk GitHub stats](https://github-readme-stats.vercel.app/api?username=jdanilo-s&show_icons=true&theme=radical)
+![JDksk GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseDaniloS&show_icons=true&theme=radical)
 <br>
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jdanilo-s&layout=compact&theme=radical)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDaniloS&layout=compact&theme=radical)
 
 ### Programming Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
