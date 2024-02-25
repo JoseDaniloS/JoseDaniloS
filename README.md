@@ -5,9 +5,9 @@ Future Back-End Developer.<br>
 Basic English.
 
 
-(https://github-readme-stats.vercel.app/api?username=JoseDaniloS&show_icons=true&theme=radical)
+![JoseDaniloS GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseDaniloS&show_icons=true&theme=radical)
 <br>
-(https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDaniloS&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDaniloS&layout=compact&theme=radical)
 
 ### Programming Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
