@@ -1,34 +1,20 @@
-### Hello👋
-Currently an Information Technology student at the Federal Rural University of the Semi-Arid [UFERSA].<br>
-Graduated in the Technical Course of Informatics at E.E.E.P Balbina Viana Arrais.<br>
-Front-End Developer.<br>
-Basic English.
+# Hi there👋
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jos%C3%A9-danilo-6197a02a)](https://www.linkedin.com/in/jos%C3%A9-danilo-6197a02a)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-28B463?style=flat-square&logo=linktree&logoColor=white&link=https://portifolio-tau-seven-17.vercel.app/)](https://portifolio-tau-seven-17.vercel.app/)
+[![Gmail Badge](https://img.shields.io/badge/-danilojose.1d@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danilojose.1d@gmail.com)](mailto:danilojose.1d@gmail.com)
 
+Currently, I am an Information Technology student at the Federal Rural University of the Semi-Arid (UFERSA).  
+I graduated from the Technical Course of Informatics at E.E.E.P. Balbina Viana Arrais.  
+I am a Front-End Developer with intermediate English skills.
 
-![JoseDaniloS GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseDaniloS&show_icons=true&theme=radical)
-<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDaniloS&layout=compact&theme=radical)
+[![JoseDaniloS top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDaniloS&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
 
-### Programming Languages:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Markup Language:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-### Learning:
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-black.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-
-### Social Networks:
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jdanilos_)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JDksjs_)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-danilo-6197a02a3)
-<a href="mailto:danilojose.1d@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<div style="display: flex; gap: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" />
+</div>
