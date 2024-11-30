@@ -1,6 +1,6 @@
 # Hi there👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-032D58?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josedanilos/)](https://www.linkedin.com/in/josedanilos/)
-[![Portfólio Badge](https://img.shields.io/badge/-Portfólio-032D58?style=flat-square&logo=linktree&logoColor=white&link=https://portifolio-tau-seven-17.vercel.app/)](https://portifolio-tau-seven-17.vercel.app/)
+[![Portfólio Badge](https://img.shields.io/badge/-Portifólio-032D58?style=flat-square&logo=linktree&logoColor=white&link=https://portifolio-tau-seven-17.vercel.app/)](https://portifolio-tau-seven-17.vercel.app/)
 [![Gmail Badge](https://img.shields.io/badge/-danilojose.1d@gmail.com-032D58?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danilojose.1d@gmail.com)](mailto:danilojose.1d@gmail.com)
 
 Currently, I am an Information Technology student at the Federal Rural University of the Semi-Arid (UFERSA).  
