@@ -5,7 +5,7 @@
 
 Currently, I am an Information Technology student at the Federal Rural University of the Semi-Arid (UFERSA).  
 I graduated from the Technical Course of Informatics at E.E.E.P. Balbina Viana Arrais.  
-Front-End Developer | intermediate English.
+Front-End Developer | MERN-Stack | intermediate English.
 
 [![JoseDaniloS top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseDaniloS&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
